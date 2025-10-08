@@ -1,4 +1,4 @@
-## Hi there 👋, I am Dawood
+## Hi there 👋, I am Dawood Khatri
 
 - 🌱 I’m currently learning App Development.
 - 💻 Got a hands-on with Web Development.

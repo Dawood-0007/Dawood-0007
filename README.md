@@ -1,12 +1,12 @@
-# Hi 👋, I'm Dawood Khatri
+<h1 align="center">Hi 👋, I'm Dawood Khatri</h1
 
 I specialize in creating responsive web experiences and am currently diving deep into mobile UI/UX and app logic. Check out my repositories to see my journey from the DOM to Native components!
 
 - 👨‍💻 My Portfolio :  **[https://dawood-0007.github.io/Dawood-Portfolio/](https://dawood-0007.github.io/Dawood-Portfolio/)**
+- My Email : **[dawoodqasim0007@gmail.com](mailto:dawoodqasim0007@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Dawood-0007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Dawood-0007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dawood-khatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dawood Khatri" height="30" width="40" /></a>
 </p>
 

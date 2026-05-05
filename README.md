@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dawood Khatri</h1>
+<h1 align="center">Hi, I'm Dawood Khatri</h1>
 
 I specialize in creating responsive web experiences and am currently diving deep into mobile UI/UX and app logic. Check out my repositories to see my journey from the DOM to Native components!
 
 -  Portfolio :  **[https://dawood-0007.github.io/Dawood-Portfolio/](https://dawood-0007.github.io/Dawood-Portfolio/)**
-  
 -  Email : **[dawoodqasim0007@gmail.com](mailto:dawoodqasim0007@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>

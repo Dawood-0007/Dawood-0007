@@ -3,6 +3,7 @@
 I specialize in creating responsive web experiences and am currently diving deep into mobile UI/UX and app logic. Check out my repositories to see my journey from the DOM to Native components!
 
 -  Portfolio :  **[https://dawood-0007.github.io/Dawood-Portfolio/](https://dawood-0007.github.io/Dawood-Portfolio/)**
+-  Linkedin : **[linkedin.com/in/dawood-khatri](linkedin.com/in/dawood-khatri)**
 -  Email : **[dawoodqasim0007@gmail.com](mailto:dawoodqasim0007@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>

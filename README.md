@@ -28,4 +28,5 @@ I specialize in creating responsive web experiences and am currently diving deep
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
 </p>

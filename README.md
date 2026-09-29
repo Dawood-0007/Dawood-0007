@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Dawood Khatri</h1>
 
-I specialize in creating responsive web experiences and am currently diving deep into mobile UI/UX and app logic. Check out my repositories to see my journey from the DOM to Native components!
+I’m a Software Developer experienced in building full-stack, scalable, and production-ready applications. My expertise spans frontend, backend, databases, APIs, mobile development, Docker, Nginx, CI/CD, and DevOps. Explore my repositories to see projects covering everything from application development to containerization, deployment, and production infrastructure.
 
 -  Portfolio :  **[https://dawood-0007.github.io/](https://dawood-0007.github.io/)**
 -  Email : **[dawoodqasim0007@gmail.com](mailto:dawoodqasim0007@gmail.com)**
